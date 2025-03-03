@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neovern Enricoso</h1>
 <h3 align="center">A passionate developer, aspiring to be a better programmer than I am right now.</h3>
 
-- 🔭 I’m currently working on [QuizCross](https://quizcrossmindmaster.pythonanywhere.com/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **.NET CORE WEB API and ANGULAR JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ne-yo11?tab=repositories](https://github.com/ne-yo11?tab=repositories)
 
