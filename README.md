@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer, aspiring to be a better programmer than I am right now.</h3>
 
 
-- 🌱 I’m currently learning **.NET CORE WEB API and ANGULAR JS**
+- 🌱 I’m currently learning **SOFTWARE TESTING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ne-yo11?tab=repositories](https://github.com/ne-yo11?tab=repositories)
 
