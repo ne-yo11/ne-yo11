@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neovern Enricoso</h1>
-<h3 align="center">A passionate developer, aspiring to be a better programmer than I am right now.</h3>
+<h3 align="center">A passionate software tester engineer, striving to improve and become a better tester than I am right now.</h3>
 
 
 - 🌱 I’m currently learning **SOFTWARE TESTING**
